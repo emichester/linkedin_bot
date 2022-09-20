@@ -1,0 +1,13 @@
+# main
+## config and personal data
+config/
+messages.py
+
+## logs
+geckodriver.log
+
+## cache
+__pycache__/
+utilities/__pycache__/
+config/__pycache__/
+config/session/__pycache__/
