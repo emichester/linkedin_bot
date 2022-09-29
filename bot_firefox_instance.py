@@ -65,8 +65,6 @@ def main():
     name =  config['LOGIN']['name']
     password = config['LOGIN']['password']
 
-    from messages import messages
-
     ## ------------ close webdriver # UNCOMMENT ONLY IF NEEDED!!!!
     # close_father_webdriver(driver)
 
